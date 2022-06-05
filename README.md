@@ -1,2 +1,2 @@
 # sample200
-yes
+yes u
